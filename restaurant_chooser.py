@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.4 
 #
-# Lunch Generator
+# Lunch Generator AKA Restaurant Chooser
 # Let the machine do the deciding
 #
 # v0.0
@@ -31,7 +31,7 @@ def main():
 
 
     # generate a random number between range
-    # start with 3 to skip the restaurantDatat.txt header lines
+    # start with 3 to skip the RestaurantData.dat header lines
     randomNumber = random.randint(4, count)
 
     # correlate the number with the correct rest

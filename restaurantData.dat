@@ -1,11 +1,11 @@
-# restaurantData.txt
-# Dont add/subtract lines from this comment block
+# restaurantData.dat
+# Dont add/subtract lines from this comment block there must be 3
 # format: "name",score,"dateLastUsed"
 "Sonic",0, "00-00-2018"
-"Wet Knees",0, "00-00-2018"
+"WetKnees",0, "00-00-2018"
 "Burger Qween",0, "00-00-2018"
 "McDogs",0, "00-00-2018"
-"Red Rocket",0, "00-00-2018"
+"Red Rocket",-2, "00-00-2018"
 "New Mexican Place",0, "00-00-2018"
 "Kentucky Fried Children",0, "00-00-2018"
 "Toxic Hell",0, "00-00-2018"
